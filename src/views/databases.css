@@ -1,0 +1,77 @@
+.databases-container {
+  width: 100%;
+  top: 0px;
+  display: initial;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  z-index: 10;
+}
+.databases-frame7 {
+  gap: 18px;
+  width: 909px;
+  height: auto;
+  display: flex;
+  padding: 0 0 0 24px;
+  align-self: flex-start;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 1);
+  position: relative;
+  z-index: 10;
+}
+.databases-contenttext {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.databases-text {
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.databases-text01 {
+  font-weight: 400;
+}
+.databases-text02 {
+  font-weight: 700;
+}
+.databases-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.databases-text05 {
+  font-weight: 700;
+}
+.databases-text09 {
+  font-weight: 400;
+}
+.databases-text10 {
+  font-weight: 700;
+}
+.databases-text14 {
+  font-weight: 400;
+}
+.databases-image1 {
+  width: 468px;
+  height: 355px;
+}

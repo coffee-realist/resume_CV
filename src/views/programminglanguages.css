@@ -1,0 +1,126 @@
+.programminglanguages-container {
+  width: 100%;
+  display: initial;
+  left: 50px;
+  top: -20px;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  z-index: 10;
+}
+.programminglanguages-frame4 {
+  gap: 18px;
+  width: 911px;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  padding: 0 0 0 24px;
+  flex-direction: column;
+  background-color: rgba(217, 217, 217, 1);
+  z-index: 10;
+}
+.programminglanguages-frame41 {
+  gap: 18px;
+  display: flex;
+  padding: 0 0 0 24px;
+  align-items: center;
+}
+.programminglanguages-contenttext {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.programminglanguages-text {
+  color: rgb(0, 0, 0);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.programminglanguages-text01 {
+  font-weight: 700;
+}
+.programminglanguages-text02 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text03 {
+  color: rgb(0, 0, 0);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.programminglanguages-text05 {
+  font-weight: 700;
+}
+.programminglanguages-text06 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text07 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text08 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text09 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text10 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text11 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text12 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-text13 {
+  font-style: normal;
+  font-weight: 500;
+}
+.programminglanguages-image1 {
+  width: 469px;
+  height: 335px;
+}
+.programminglanguages-text15 {
+  color: rgb(0, 0, 0);
+  width: 837px;
+  height: auto;
+  font-size: 18px;
+  align-self: flex-start;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  font-stretch: normal;
+  text-decoration: none;
+}
+.programminglanguages-text16 {
+  font-weight: 700;
+}

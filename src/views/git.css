@@ -1,0 +1,72 @@
+.git-container {
+  width: 100%;
+  left: 20px;
+  bottom: 120px;
+  display: initial;
+  overflow: auto;
+  min-height: 100vh;
+  text-align: left;
+  align-items: flex-start;
+  flex-direction: column;
+  position: relative;
+  z-index: 10;
+}
+.git-frame2 {
+  gap: 18px;
+  width: 909px;
+  height: auto;
+  display: flex;
+  padding: 0 0 0 24px;
+  text-align: left;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 1);
+  position: relative;
+  z-index: 10;
+}
+.git-contenttext {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.git-text {
+  color: rgb(0, 0, 0);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.git-text1 {
+  font-weight: 700;
+}
+.git-text3 {
+  font-style: normal;
+  font-weight: 500;
+}
+.git-text4 {
+  color: rgb(0, 0, 0);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.git-text7 {
+  font-style: normal;
+  font-weight: 500;
+}
+.git-image1 {
+  width: 469px;
+  height: 335px;
+}

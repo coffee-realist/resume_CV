@@ -1,0 +1,78 @@
+.dataanalys-container {
+  width: 100%;
+  bottom: 130px;
+  left: -30px;
+  display: initial;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  position: relative;
+  z-index: 10;
+  flex-direction: column;
+}
+.dataanalys-frame8 {
+  gap: 18px;
+  width: 910px;
+  height: auto;
+  display: flex;
+  padding: 0 0 0 24px;
+  align-self: flex-start;
+  align-items: center;
+  z-index: 10;
+  position: relative;
+  background-color: rgba(217, 217, 217, 1);
+}
+.dataanalys-contenttext {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dataanalys-text {
+  color: rgb(0, 0, 0);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dataanalys-text1 {
+  font-weight: 700;
+}
+.dataanalys-text3 {
+  font-weight: 400;
+}
+.dataanalys-text4 {
+  color: rgb(0, 0, 0);
+  width: 399px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dataanalys-text5 {
+  font-weight: 400;
+}
+.dataanalys-text6 {
+  font-weight: 700;
+}
+.dataanalys-text7 {
+  font-weight: 400;
+}
+.dataanalys-text8 {
+  font-weight: 700;
+}
+.dataanalys-image2 {
+  width: 469px;
+  height: 335px;
+}
